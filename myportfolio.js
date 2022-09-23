@@ -452,7 +452,7 @@ const birthdayUpdate = document.querySelector(".birthday-update");
 const countdowns = document.querySelectorAll(".countdown-format h2");
 const countdownHolder = document.querySelector(".countdown-holder");
 
-const birthday = new Date(2022, 8, 19, 0, 0, 0);
+const birthday = new Date(2023, 8, 19, 0, 0, 0);
 //console.log(birthdayDate);
 const birthdayYear = birthday.getFullYear();
 const birthdayMonth = months[birthday.getMonth()];
